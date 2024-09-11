@@ -1,6 +1,18 @@
 # Data-Integrity-Using-SHA-256
 
-Using various Linux commands such as ls -a, cat, sha256sum and cmp I used file hashing to verify the data integrity of two files. 
+Using various Linux commands such as _**ls -a, cat, sha256sum**_ and _**cmp**_ I used file hashing to verify the data integrity of two files. 
+
+## Skills Learned:
+
+- File integrity verification using hashing techniques
+- Understanding and generating SHA-256 hash values
+- Comparing files at the Byte level to identify differences
+- Redirecting command output to files in Linux
+
+## Tools Used:
+
+- Linux commands: **_ls -a, cat, sha256sum, cmp_**
+- SHA-256 hashing algorithm for data integrity verification
 
 ## Creating and Comparing Hash Values Using SHA-256
 
