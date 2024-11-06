@@ -1,4 +1,4 @@
-# Data-Integrity-Using-SHA-256
+# Purpose
 
 Using various Linux commands such as _**ls -a, cat, sha256sum**_ and _**cmp**_ I used file hashing to verify the data integrity of two files. 
 
